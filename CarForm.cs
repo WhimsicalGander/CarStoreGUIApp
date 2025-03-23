@@ -2,7 +2,7 @@ using CarClassLibrary;
 
 namespace CarStoreGUIApp
 {
-
+    //class for front end and event handlers
     public partial class CarForm : Form
     {
         Store store = new Store();
